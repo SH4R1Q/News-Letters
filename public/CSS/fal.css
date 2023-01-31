@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(244, 184, 184);
+}
+.jumbotron{
+    padding: 50px;
+    background-color: rgb(244, 117, 117);
+    border-radius: 30px;
+    margin: 10px;
+}
+.jumbotron h1{
+    padding-bottom: 20px;
+    font-size: 50px;
+    
+}
+.jumbotron p{
+    font-size: 10res;
+}
